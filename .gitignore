@@ -1,0 +1,6 @@
+# Script output
+*.png
+*.txt
+
+# MacOS
+*.DS_Store
